@@ -1,0 +1,15 @@
+Czas potrzeny do zapisania słowa kot to 9
+Czas potrzeny do zapisania słowa domek to 16 sekund
+Czas potrzebny do zapisania słowa okno to 8 sekund
+Czas potrzebny do zapisania słowa 'dom' to 7 sekund
+Czas potrzebny do zapisania słowa 'lis' to 7 sekund, obecny czas: 1670279753818
+Czas potrzebny do zapisania słowa 'auto' to 9 sekund, obecny czas: 
+Czas potrzebny do zapisania słowa 'mysz' to 9 sekund, obecny czas: Mon Dec 05 23:41:48 CET 2022
+Czas potrzebny do zapisania słowa 'dom' to 6 sekund, obecny czas: Mon Dec 05 23:46:23 CET 2022
+Czas potrzebny do zapisania słowa 'kot' to 10 sekund, obecny czas: Mon Dec 05 23:55:04 CET 2022
+Czas potrzebny do zapisania słowa 'źdźbło' to 16 sekund, obecny czas: Tue Dec 06 00:03:24 CET 2022
+Czas potrzebny do zapisania słowa 'myszka' to 42 sekund, obecny czas: Tue Dec 06 10:09:41 CET 2022
+Czas potrzebny do zapisania słowa 'dom' to 10 sekund, obecny czas: Tue Dec 06 10:13:04 CET 2022
+Czas potrzebny do zapisania słowa 'mysz' to 12 sekund, obecny czas: Tue Dec 06 20:25:40 CET 2022
+Czas potrzebny do zapisania słowa 'języki' to 19 sekund, obecny czas: Tue Dec 06 20:26:23 CET 2022
+Czas potrzebny do zapisania słowa 'źdźbło' to 18 sekund, obecny czas: Fri Dec 09 20:10:38 CET 2022
