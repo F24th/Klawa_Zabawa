@@ -1,0 +1,3 @@
+Czas potrzebny do zapisania słowa 'hotel' to 17 sekund, czas gry: Mon Jan 02 12:34:47 CET 2023
+Słowo, którego nie udało się zapisać, to 'krzesło'. Czas, kiedy zakończono grę, to Mon Jan 02 12:36:02 CET 2023
+Czas potrzebny do zapisania słowa 'dom' to 6 sekund, czas gry: Mon Jan 02 12:53:08 CET 2023
